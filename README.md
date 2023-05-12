@@ -6,7 +6,7 @@ This project is build with React and TypeScript.A brief description of what this
 ## About the App
 
 - This app is completely created in React and TypeScript.
-- The website is hosted on Netlify and its URL is https://techwondoe-task.netlify.app/.
+- The website is hosted on Vercel and its URL is [https://techwondoe-task.netlify.app/](https://techwondoe-task.vercel.app/)
 - For styling purposes Tailwind CSS and BootStrap both are used.
 - The API server used for fetching the users is https://mockapi.io/.
 - For confirmation of updated user, deleted user and added user, react-toastify library is used to showcase the notification.
@@ -20,4 +20,8 @@ This project is build with React and TypeScript.A brief description of what this
 - There is Pagination introduced.
 - The Badge, Button Component and Pagination components are there.
 - You can download the whole table in .csv format.
+
+## Demo
+
+![localhost_3000_](https://github.com/noobmaster432/techwondoe-task/assets/103204431/7bb9e1e0-dd5b-4ca6-a764-11afc00fb3c2)
 
